@@ -1,0 +1,8 @@
+img{height: 80px;
+    width: 80px;
+    position: inherit;
+}
+a{position: fixed;
+  right: 180px;
+  top: 500px;
+}
